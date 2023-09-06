@@ -1,0 +1,59 @@
+body {
+    background-size: 2000px;
+}
+
+#sketch {
+    font-size: 30px;
+    color: white;
+    font-weight: 1000;
+}
+
+#confidence {
+    font-size: 30px;
+    color: white;
+    font-weight: 1000;
+}
+
+#tobe {
+    font-size: 50px;
+    color: white;
+    font-weight: 1000;
+}
+
+h1 {
+    font-size: 80px;
+    color: white;
+    font-weight: 1000;
+}
+
+h4 {
+    font-size: 80px;
+    color: rgb(0, 0, 0);
+    font-weight: 1000;
+}
+
+#show_sketch {
+    color: black;
+    font-weight: 1000;
+}
+
+.btn-:hover
+{
+    background-color: rgb(0, 255, 0);
+    color:  rgb(0, 0, 0);
+}
+
+#score {
+    font-weight: 1000;    
+    color: white;
+    font-size: 50px;
+    margin-left: 10px;
+}
+
+#timer {
+    font-weight: 1000;    
+    color: white;
+    font-size: 50px;
+    float:right;
+    margin-right: 10px;
+}
